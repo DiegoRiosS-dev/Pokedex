@@ -1,5 +1,7 @@
 ![](./Img/pokemon.png)
-
+## Feito em Grupo
+[<img src="https://avatars.githubusercontent.com/u/99925453?v=4" width=115><br><sub>Diego Rios Santos</sub>](https://github.com/DiegoRiosS-dev) | [<img src="https://avatars.githubusercontent.com/u/102299433?v=4" width=115><br><sub>Caroline Martins</sub>](https://github.com/CarolineMartins09) |  [<img src="https://avatars.githubusercontent.com/u/102427205?v=4" width=115><br><sub>Bianca Giovana Paccola</sub>](https://github.com/BiancaPaccola) |
+| :-----: | :-----: | :-----: |
 
 # Projeto Pokedex
 
